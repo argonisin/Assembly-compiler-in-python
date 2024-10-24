@@ -1,0 +1,5 @@
+Commands:
+
+"cfile" = opens compiler panel
+"run" = opens run panel
+"e" = exit program
